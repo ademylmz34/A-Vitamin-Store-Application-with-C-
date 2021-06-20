@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitamin_Deposu", "Vitamin_Deposu\Vitamin_Deposu.csproj", "{7AD565D2-2D0C-466E-A1C3-6F2FC5632C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD565D2-2D0C-466E-A1C3-6F2FC5632C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD565D2-2D0C-466E-A1C3-6F2FC5632C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD565D2-2D0C-466E-A1C3-6F2FC5632C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD565D2-2D0C-466E-A1C3-6F2FC5632C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC04F44-D7FB-47E5-A96E-38ED0D86396D}
+	EndGlobalSection
+EndGlobal

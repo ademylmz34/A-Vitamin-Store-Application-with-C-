@@ -1,0 +1,40 @@
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe.config
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.pdb
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csprojAssemblyReference.cache
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Form1.resources
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Properties.Resources.resources
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.GenerateResource.cache
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.CoreCompileInputs.cache
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\source\repos\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.pdb
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe.config
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.pdb
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Form1.resources
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Properties.Resources.resources
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.GenerateResource.cache
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\Desktop\yeni\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.pdb
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe.config
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.pdb
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Form1.resources
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Properties.Resources.resources
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.GenerateResource.cache
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.exe
+C:\Users\cotan\Desktop\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.pdb
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe.config
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.exe
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\bin\Debug\Vitamin_Deposu.pdb
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.AssemblyReference.cache
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Form1.resources
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.Properties.Resources.resources
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.GenerateResource.cache
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.csproj.CoreCompileInputs.cache
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.exe
+E:\2020 2021 BAHAR DÖNEMİ\NDP\Proje Ödevi\Vitamin_Deposu\Vitamin_Deposu\obj\Debug\Vitamin_Deposu.pdb
